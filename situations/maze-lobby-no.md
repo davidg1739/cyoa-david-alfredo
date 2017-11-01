@@ -3,5 +3,5 @@ When you reach the lobby, ou are confronted with the host of the maze that tells
 "Once you enter the maze you have a chance of winning the treasue of 1,000,000,000 dollars!"   
 "Are you sure that you want to enter the maze?"   
    
-[Yes!](enter-maze.md)
+[Yes!](enter-maze.md)   
 [No!](enter-maze-no.md)
