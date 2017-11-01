@@ -1,1 +1,1 @@
-Click [here](letter.md)
+Click [here](situations/letter.md) to begin.
