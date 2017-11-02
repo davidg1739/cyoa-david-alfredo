@@ -4,6 +4,7 @@ When you reach the lobby, ou are confronted with the host of the maze that tells
 "Are you sure that you want to enter the maze?"
 
 ![Maze](../images/maze.png)
+_Property of DigitalShards_
    
 [Yes!](enter-maze.md)   
 [No!](enter-maze-no.md)
