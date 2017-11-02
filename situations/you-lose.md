@@ -5,7 +5,8 @@ You start thinking that you want to turn back but you realize that you don't rem
 You are now walking for two hours and out of nowhere a tiger appers and eats you up!   
 YOU LOSE!  
 
-![Tiger](../images/tiger.jpeg)
+![Tiger](../images/tiger.png)  
    
+_Property of tio28_
    
 [Play again?](letter.md)
