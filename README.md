@@ -1,1 +1,1 @@
-Click [here](situations/letter.md) to begin.
+Click [here](situations-maze-1/letter.md) to begin.
