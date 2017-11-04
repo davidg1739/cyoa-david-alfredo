@@ -5,5 +5,5 @@ The host tell you that in order to triple your earnings you are going to have to
 The says that the first question is you have to say [something](question-2.md).   
    
 What do you say?   
-[Ok](incorrect.md)
+[Ok](incorrect.md)   
 [What do I say?](incorrect.md)
