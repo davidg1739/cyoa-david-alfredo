@@ -4,5 +4,5 @@ The host tell you that you can triple your earnings if you continue to the next 
    
 What do you do?   
    
-[Continue?]()
-[Reject]()
+[Continue?](maze2-continue.md)   
+[Reject](maze2-continue-force.md)
