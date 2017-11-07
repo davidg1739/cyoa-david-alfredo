@@ -1,9 +1,5 @@
-### You are forced to continue on.   
+### You Are Forced To Continue On!
    
-The host tell you that in order to triple your earnings you are going to have to answer all of the questions that he tell you correctly.  
+The host tell you that in order to triple your earnings you are going to have to answer all of the questions that he asks you correctly.  
    
-The says that the first question is you have to say [something](question-2.md).   
-   
-What do you say?   
-[Ok](incorrect.md)   
-[What do I say?](incorrect.md)
+The first question you have to answer is [click here](questions/question-1/question-1.md).     

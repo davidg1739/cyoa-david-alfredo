@@ -1,4 +1,4 @@
-### You have been forced to participate   
+### You Have Been Forced To Participate!
    
 The host tell you that you can triple your original earnings if you continue on. 
    
