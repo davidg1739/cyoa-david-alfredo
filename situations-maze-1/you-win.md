@@ -10,7 +10,7 @@ _Property of publicdomainvectors.org_
 The host comes up to you and congratulates you on your completion of the task. He asks you if you want to earn more money/ trasure.  
 
 Will you go for more treasure or stay with your current earnings?
-[More Treasure!](../quiz-game/maze2-start.md) [ No!](../thank-you-for-playing.md)  
+[More Treasure!](../quiz-game/quiz-start.md) [ No!](../thank-you-for-playing.md)  
 
 **Click 'Play Again?' to start from the beginning.**
   
