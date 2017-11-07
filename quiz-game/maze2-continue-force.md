@@ -1,4 +1,4 @@
-### You are forced to continue to then next stage   
+### You are forced to continue on.   
    
 The host tell you that in order to triple your earnings you are going to have to answer all of the questions that he tell you correctly.  
    
