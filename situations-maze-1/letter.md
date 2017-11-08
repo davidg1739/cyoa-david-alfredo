@@ -1,7 +1,7 @@
 ## **_DingDong_**
 
 Soemone just rang your dorrbell.
-You get up from the couch and go to yoour door. 
+You get up from the couch and go to your door. 
 Your mailman David Gutierrez came to give you your mail.
 You got a letter from Amaproson.  
 
